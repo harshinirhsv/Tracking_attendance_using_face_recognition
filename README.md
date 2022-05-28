@@ -19,3 +19,9 @@ FEATURES:
 #STEPS TO RUN THIS PROJECT:
 1.clone my github repository https://github.com/harshinirhsv/Tracking_attendance_using_face_recognition
 2.run face_rec.py file
+3.Enter student Rollno and Name
+3.Click Enroll face button to take images.
+4.Click save profile and enter your new password 
+5.Click again save profile and enter your registred password
+6.click Track attendance to save your attendance
+7.click exit
