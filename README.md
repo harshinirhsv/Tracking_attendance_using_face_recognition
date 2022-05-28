@@ -14,3 +14,8 @@ FEATURES:
 3) Creates/Updates CSV file for deatils of students on registration.
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
+
+
+#STEPS TO RUN THIS PROJECT:
+1.clone my github repository https://github.com/harshinirhsv/Tracking_attendance_using_face_recognition
+2.run face_rec.py file
