@@ -23,5 +23,5 @@ FEATURES:
 3.Click Enroll face button to take images.
 4.Click save profile and enter your new password 
 5.Click again save profile and enter your registered password
-6.click Track attendance to save your attendance
+6.click Track attendance to save your attendance and click q to exit from frame
 7.click exit
